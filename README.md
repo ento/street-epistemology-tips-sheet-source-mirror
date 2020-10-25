@@ -1,4 +1,4 @@
-# SE tips poster source text
+# SE tips sheet source text
 
 This is a 'mirror' of the Street Epistemology tips sheet found in the public Googld Drive folder linked to from streetepistemology.com's [Resources](https://streetepistemology.com/resources/) page.
 
