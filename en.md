@@ -1,14 +1,13 @@
 # StreetEpistemology.com
+Street Epistemology (SE) is a conversational tool that helps people reflect on the quality and reliability of their reasoning in a non-confrontational manner. Here are some steps that may help you through a conversation. Don’t feel obligated to use all of these simultaneously. Pace yourself and try to go where your conversation partner takes you!
 
-Street Epistemology is a conversational tool that helps people reflect on the quality and reliability of their reasoning in a non-confrontational manner. Here are some steps that may help you through a conversation. Don’t feel obligated to use all of these simultaneously. Pace yourself and try to go where your conversation partner takes you.
-
-## 1. Choosing the topic
-- Would you like to discuss any of your beliefs?
-- Do you have any deeply held beliefs which define you?
-- Do you believe in anything supernatural?
-- Are there any disputes you frequently have with people?
-- Do you have any beliefs that a lot of people disagree with?
-- In what ways would you like the society to change?
+## 1. Choosing the topic, obtaining consent, introducing SE
+- What would you say is your claim?
+- Do you mind if I ask you some questions about it?
+- I’m really interested in examining your belief and the ways of reasoning behind it.
+- One goal is to understand your reasoning and reflect on its reliability together.
+- I'll be happy to answer the same questions myself as well if you're interested.
+- The approach I'd like to use in this conversation is called Street Epistemology. It's aimed at examining the methods we use to come to conclusions.
 
 ## 2. Clarification of the belief. The “What” type of questions
 - What do you mean by that?
@@ -35,11 +34,12 @@ Street Epistemology is a conversational tool that helps people reflect on the qu
 - What gives you that amount of confidence?
 - What would you say is the main reason for that confidence?
 - If you didn’t have that [particular reason] how would that impact your confidence?
+- If we put all your reasons on a pie chart how big of a slice would each reason get?
 
 ## 5. Examining the reliability of the methods. The “How” questions
 ### Socratic questioning:
 - Should this [particular] evidence give us that amount of confidence?
-- Would the same reasoning work with different claims as well?
+- Would the same reasoning work with different claims?
 - Can our feelings be deceptive?
 - Can a person have faith in something that is not true?
 - How can we determine if two separate events are related in any way?
@@ -60,11 +60,15 @@ Street Epistemology is a conversational tool that helps people reflect on the qu
 - If another person uses the same [particular] methods and comes to a different conclusion than you do, how could an outside observer decide which one of your claims is more likely to be correct?
 - If some methods can lead us to different and contradictory conclusions what does it tell us about the reliability of such methods?
 
-## 6. Feedback
-- After what we’ve discussed, what would you say your level of confidence is?
+- What question do you think would be important to ask next?
+- What would be a good question to ask yourself?
+
+## 6. Feedback and reflection
+- Did our chat generate any interesting thoughts?
+- Did your level of confidence fluctuate in any way afterwards?
 - Did you enjoy our conversation?
-- Did you have any interesting thoughts?
 
 ## 7. Concluding the conversation
+- SE talks can absolutely be a back and forth exchange. Ask if they would like to use these questions with you, or maybe to just learn your stance on the same subject.
 - Exchanging contacts and information.
 - Thank you for the chat!
